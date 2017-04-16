@@ -1,5 +1,7 @@
 # fmt-obj-cli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/fmt-obj-cli.svg)](https://greenkeeper.io/)
+
 <p align="center">
   <br>
   <img src="https://i.imgur.com/Mh13XWB.gif" alt="fmt-obj-cli">
